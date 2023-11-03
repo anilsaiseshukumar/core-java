@@ -1,0 +1,10 @@
+package com.tns.stream;
+
+public class StreamOperation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
